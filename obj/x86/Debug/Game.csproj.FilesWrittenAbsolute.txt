@@ -1,0 +1,5 @@
+/Users/Adam/projects/Anthropology/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Adam/projects/Anthropology/bin/Debug/AnthropologyWithTests.dll.mdb
+/Users/Adam/projects/Anthropology/bin/Debug/AnthropologyWithTests.dll
+/Users/Adam/projects/Anthropology/obj/x86/Debug/AnthropologyWithTests.dll
+/Users/Adam/projects/Anthropology/obj/x86/Debug/AnthropologyWithTests.dll.mdb

@@ -33,13 +33,13 @@
     <Reference Include="nunit.framework" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Test.cs" />
+    <Compile Include="TestSettlement.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\Anthropology.csproj">
+    <ProjectReference Include="..\Game.csproj">
       <Project>{2327E41B-00B5-4099-B60D-C7503984A1E1}</Project>
-      <Name>Anthropology</Name>
+      <Name>Game</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

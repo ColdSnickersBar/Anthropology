@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anthropology", "Anthropology.csproj", "{2327E41B-00B5-4099-B60D-C7503984A1E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game.csproj", "{2327E41B-00B5-4099-B60D-C7503984A1E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{6D44A621-5290-476A-AA5C-6AF30F822946}"
 EndProject
@@ -21,6 +21,6 @@ Global
 		{6D44A621-5290-476A-AA5C-6AF30F822946}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Anthropology.csproj
+		StartupItem = Game.csproj
 	EndGlobalSection
 EndGlobal
